@@ -18,3 +18,8 @@ function inc(a){
   return parseInt(a)++;
 }
 
+function dec(a){
+  return parseInt(a)--;
+}
+
+
