@@ -15,11 +15,18 @@ function divide(a,b){
 }
 
 function inc(a){
-  return parseInt(a)++;
+  return parseInt(a)+1;
 }
 
 function dec(a){
-  return parseInt(a)--;
+  return parseInt(a)-1;
 }
+
+function makeInt(a){
+  return parseInt(a);
+}
+
+
+
 
 
