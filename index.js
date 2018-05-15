@@ -1,3 +1,3 @@
-function add(int a, int b){
-  return a+b;
+function add(a,b){
+  return parseInt(a)+parseInt(b);
 }
